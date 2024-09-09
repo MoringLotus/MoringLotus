@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MoringLotus
 - 👀 I’m interested in AI In System, Linux OS Kernel, C++ 
-- 🌱 I’m currently learning continue learning & cuda program
-- 📫 How to reach me ... 1084337181@qq.com
+- 🌱 I’m currently learning continue learning & LLM application
+- 📫 How to reach me ... lotusdurine2023 at gmail dot com
+- finding vc.....
 
 
 <!---
