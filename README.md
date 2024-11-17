@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoringLotus
-- 👀 I’m interested in AI In System, Linux OS Kernel, C++ 
+- 👀 I’m interested in AI In System, Linux OS Kernel, Go Cloud Dev
 - 🌱 I’m currently learning continue learning & LLM application
 - 📫 How to reach me ... lotusdurine2023 at gmail dot com
 - finding vc.....
